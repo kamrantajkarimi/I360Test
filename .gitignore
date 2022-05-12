@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/I360Test/bin/Debug/net6.0
+/I360Test/obj
+/TestProject1/bin/Debug/net6.0
+/TestProject1/obj
